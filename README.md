@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Syf-Almjd
+- 👋 Hi, I’m @Saif_Almajd
 - 👀 I’m interested in CS, Cyber Security, Python, Java, Android Development, and IT Managing. 
 - 🌱 I’m currently learning Computer Science - Cyber Security.
 - 💞️ I’m looking to collaborate on Python, Java, and Android Development.
