@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saif_Almajd
-- 👀 I’m interested in CS, Cyber Security, Python, Java, Android Development, and IT Managing. 
+- 👀 I’m interested in CS, Cyber Security, Flutter, Java, Mobile Development, and IT Managing. 
 - 🌱 I’m currently learning Computer Science - Cyber Security.
-- 💞️ I’m looking to collaborate on Python, Java, and Android Development.
+- 💞️ I’m looking to collaborate on Flutter, Dart, Java, and Mobile Development.
 - 📫 Email: Syfalmjd11@gmail.com 
 
 <!---
