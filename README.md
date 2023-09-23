@@ -44,17 +44,38 @@
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
-I proudly embrace my roles as a Developer, Leader, and Believer in our shared journey toward a better humanity 🌎. 
+<p align="center"> <img src="[https://github-readme-streak-stats.herokuapp.com/?user=syf-almjd&theme=dark](https://media.licdn.com/dms/image/D5635AQG_czOsY1xenQ/profile-framedphoto-shrink_400_400/0/1694776888586?e=1696064400&v=beta&t=Ot0LY7JidUcocyFE-Nz9Xjrmrb1wPCRUVIPP76rLd94)" alt="syf-almjd" /></img></p>
+
+
+I proudly embrace my roles as a Developer, Leader, and Believer in our shared journey toward a better humanity 🌎.
 
 👨🏻‍💻 As a committed computer science professional and visionary leader, my mission is to harness the potential of technology to uplift humanity and leave a positive imprint on our world. In my capacity as the Manager of MJD Foundation, my focus is unwavering – I endeavor to craft ingenious tools that enhance and simplify the lives of everyone.
 
-🏢 Currently, I am passionately expanding my expertise in computer science, with a specific emphasis on Mobile Development and Cybersecurity. My unwavering belief in the power of continuous learning drives me to stay at the forefront of the latest advancements in the field.
+## 🔧 Expertise
 
-💼 With a background as a seasoned software engineer, I possess the versatility to navigate diverse platforms and excel in both written and verbal communication. My precision-oriented approach enables me to demystify intricate software challenges into easily digestible concepts.
+- 💼 **Mobile Development**: Passionately expanding my expertise in mobile development to create user-friendly and innovative solutions.
 
-📍 I am actively seeking collaborative opportunities in the domains of Flutter, Dart, Cybersecurity, and Mobile Development. If you share my enthusiasm for creating groundbreaking solutions, please don't hesitate to reach out to me at syfalmjd11@gmail.com.
+- 🔒 **Cybersecurity**: Committed to ensuring the safety and security of digital landscapes in an increasingly connected world.
+
+## 🌱 Continuous Learning
+
+My unwavering belief in the power of continuous learning drives me to stay at the forefront of the latest advancements in the field.
+
+## 💪 Versatility
+
+With a background as a seasoned software engineer, I possess the versatility to navigate diverse platforms and excel in both written and verbal communication. My precision-oriented approach enables me to demystify intricate software challenges into easily digestible concepts.
+
+## 🤝 Collaboration
+
+I am actively seeking collaborative opportunities in the domains of Flutter, Dart, Cybersecurity, and Mobile Development. If you share my enthusiasm for creating groundbreaking solutions, please don't hesitate to reach out to me at [syfalmjd11@gmail.com](mailto:syfalmjd11@gmail.com).
 
 Let's join forces and shape technology into a more human-centric and empowering force for our global community! 🌎
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/your-github-profile)
+- [Twitter](https://twitter.com/your-twitter-profile)
 
 
 <h3 align="center">Connect with me:</h3>
