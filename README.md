@@ -33,10 +33,6 @@
 
 - 🌱 I’m currently learning **Flutter, SQL, Firebase, Dart**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/140YowVx487aItDl_wP8WF9D-LUhFOAcZ/view?usp=sharing)
-
-- 📝 I regularly write articles on [MJD](mjd.law.blog)
-
 - 👨‍💻 All of my projects are available at [SaifAlmajd.web.app/](https://saifalmajd.web.app/)
 
 - 💬 Ask me about **Flutter, Java, Data Structure & Algorithms**
