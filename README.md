@@ -7,7 +7,7 @@
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syf-almjd&show_icons=true&theme=merko&locale=en&layout=compact" alt="syf-almjd"/></img> <img src="https://github-readme-stats.vercel.app/api?username=syf-almjd&show_icons=true&theme=dark&hide_border=true&locale=en" alt="syf-almjd" /></img> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syf-almjd&show_icons=true&theme=merko&hide_border=true&locale=en" alt="syf-almjd" /></img> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syf-almjd&show_icons=true&theme=merko&hide_border=true&locale=en&layout=compact" alt="syf-almjd"/></img>  </p>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=syf-almjd&theme=dark" alt="syf-almjd" /></img></p>
 
