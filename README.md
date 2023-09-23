@@ -56,6 +56,7 @@ I proudly embrace my roles as a Developer, Leader, and Believer in our shared jo
 - 💼 **Mobile Development**: Passionately expanding my expertise in mobile development to create user-friendly and innovative solutions.
 
 - 🔒 **Cybersecurity**: Committed to ensuring the safety and security of digital landscapes in an increasingly connected world.
+- 🚀 **Project Management and Leadership**: Proficiently orchestrating projects from inception to completion, optimizing resources, and leading cross-functional teams to deliver successful outcomes.
 
 ## 🌱 Continuous Learning
 
@@ -71,14 +72,7 @@ I am actively seeking collaborative opportunities in the domains of Flutter, Dar
 
 Let's join forces and shape technology into a more human-centric and empowering force for our global community! 🌎
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [GitHub](https://github.com/your-github-profile)
-- [Twitter](https://twitter.com/your-twitter-profile)
-
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with Me:</h3>
 <p align="center">
 <a href="https://dev.to/https://dev.to/saifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/saifalmajd" height="30" width="40" /></a>
 <a href="https://twitter.com/hsaifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsaifalmajd" height="30" width="40" /></a>
@@ -94,8 +88,19 @@ Let's join forces and shape technology into a more human-centric and empowering 
 
 
 <h3 align="center">Support:</h3>
-<p align="center"> <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/saifalmajdalmassri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saifalmajdalmassri" /></a>
+
+
+
+<div align="center">
+
+[![Buy Me A Coffee](https://user-images.githubusercontent.com/26390946/161375563-69c634fd-89d2-45ac-addd-931b03996b34.png)](https://www.buymeacoffee.com/saifalmajdalmassri)
   &nbsp;
-  <a href="https://ko-fi.com/https://ko-fi.com/saifalmajdalmassri"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/saifalmajdalmassri" /></a></p><br><br>
+[![Ko-fi](https://user-images.githubusercontent.com/26390946/161375565-e7d64410-bbcf-4a28-896b-7514e106478e.png)](https://ko-fi.com/saifalmajdalmassri)
+
+</div>
+
+
+
+<p align="center"> <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/saifalmajdalmassri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saifalmajdalmassri" /></a></p><br><br>
 
 
