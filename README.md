@@ -47,7 +47,12 @@
 
 
 I proudly embrace my roles as a Developer, Leader, and Believer in our shared journey toward a better humanity 🌎.
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&center=true&vCenter=true&width=435&lines=SaifAlmajd+Almassri+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Computer+Science+(Cyber-Security);Flutter+Mobile+Development+;Team+Management+;Cyber+Expert" alt="Typing SVG" /></a>
+
+
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=600&center=true&vCenter=true&width=700&height=200&lines=SaifAlmajd+Almassri+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Development+💙;Cyber+Security;Leadership+%26+Management+;Computer+Science+(Cyber-Security)" alt="Typing SVG" /></a>
+</p>
+
+
 👨🏻‍💻 As a committed computer science professional and visionary leader, my mission is to harness the potential of technology to uplift humanity and leave a positive imprint on our world. In my capacity as the Manager of MJD Foundation, my focus is unwavering – I endeavor to craft ingenious tools that enhance and simplify the lives of everyone.
 
 ## 🔧 Expertise
