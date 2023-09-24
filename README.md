@@ -30,7 +30,12 @@
 
 - ⚡ Fun fact **I am an AspireX Leadership Alumni :)**
 
-<p> </p>
+
+<p></p>
+
+
+<p align="center"><a href="https://linktr.ee/saifalmajd"> <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="50"> </a> <a href="https://linktr.ee/saifalmajd"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&color=4FC114&center=true&vCenter=true&repeat=false&width=300&lines=Check+out+Social+Profile!" alt="Typing SVG" /></a> <a href="https://linktr.ee/saifalmajd"> <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="50"> </a>
+<p></p>
 
 <h1></h1>
 
@@ -48,12 +53,6 @@
 <p align="center"> I proudly embrace my roles as a Developer, Leader, and Believer in our shared journey toward a better humanity 🌎. </p>
 <p align="center"><a href="https://linktr.ee/saifalmajd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=600&center=true&vCenter=true&width=700&height=200&lines=SaifAlmajd+Almassri+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Development+💙;Cyber+Security;Leadership+%26+Management+;Computer+Science+(Cyber-Security)" alt="Typing SVG" /></a>
 </p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="20"> <a href="https://linktr.ee/saifalmajd"> Check out Social Profile! </a> <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="20"></p>
-<p></p>
-
-<p></p>
-
 👨🏻‍💻 As a committed computer science professional and visionary leader, my mission is to harness the potential of technology to uplift humanity and leave a positive imprint on our world. In my capacity as the Manager of MJD Foundation, my focus is unwavering – I endeavor to craft ingenious tools that enhance and simplify the lives of everyone.
 
 ## 🔧 Expertise
