@@ -48,9 +48,9 @@
 <p align="center"> I proudly embrace my roles as a Developer, Leader, and Believer in our shared journey toward a better humanity 🌎. </p>
 <p align="center"><a href="https://linktr.ee/saifalmajd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=600&center=true&vCenter=true&width=700&height=200&lines=SaifAlmajd+Almassri+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Development+💙;Cyber+Security;Leadership+%26+Management+;Computer+Science+(Cyber-Security)" alt="Typing SVG" /></a>
 </p>
-<p align="center"><a href="https://linktr.ee/saifalmajd"> 🌟🌟🌟🌟🌟     Check out my Social Profile!     🌟🌟🌟🌟🌟 </a> </p>
-<p></p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="20"> <a href="https://linktr.ee/saifalmajd"> Check out Social Profile! </a> <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="20"></p>
+<p></p>
 
 <p></p>
 
