@@ -32,11 +32,11 @@
 
 
 <p></p>
-
+<p></p>
+<p></p>
 
 <p align="center"><a href="https://linktr.ee/saifalmajd"> <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="50"> </a> <a href="https://linktr.ee/saifalmajd"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&color=4FC114&center=true&vCenter=true&repeat=false&width=300&lines=Check+out+Social+Profile!" alt="Typing SVG" /></a> <a href="https://linktr.ee/saifalmajd"> <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="50"> </a>
 <p></p>
-
 <h1></h1>
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=syf-almjd&theme=dark" alt="syf-almjd" /></img></p>
