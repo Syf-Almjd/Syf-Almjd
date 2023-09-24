@@ -30,10 +30,11 @@
 
 - ⚡ Fun fact **I am an AspireX Leadership Alumni :)**
 
+<p> </p>
+
+<p align="center"><a href="https://linktr.ee/saifalmajd"> 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟     Check out my Social Profile!     🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟 </a> </p>
+
 <h1></h1>
-
-<p></p>
-
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=syf-almjd&theme=dark" alt="syf-almjd" /></img></p>
 
@@ -44,11 +45,9 @@
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
-<p align="center"> <img src="[https://github-readme-streak-stats.herokuapp.com/?user=syf-almjd&theme=dark](https://media.licdn.com/dms/image/D5635AQG_czOsY1xenQ/profile-framedphoto-shrink_400_400/0/1694776888586?e=1696064400&v=beta&t=Ot0LY7JidUcocyFE-Nz9Xjrmrb1wPCRUVIPP76rLd94)" alt="syf-almjd" /></img></p>
-
 
 I proudly embrace my roles as a Developer, Leader, and Believer in our shared journey toward a better humanity 🌎.
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=600&center=true&vCenter=true&width=435&lines=SaifAlmajd+Almassri+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Computer+Science+(Cyber-Security);Flutter+Mobile+Development+;Team+Management+;Cyber+Expert" alt="Typing SVG" /></a>
 👨🏻‍💻 As a committed computer science professional and visionary leader, my mission is to harness the potential of technology to uplift humanity and leave a positive imprint on our world. In my capacity as the Manager of MJD Foundation, my focus is unwavering – I endeavor to craft ingenious tools that enhance and simplify the lives of everyone.
 
 ## 🔧 Expertise
@@ -101,6 +100,7 @@ Let's join forces and shape technology into a more human-centric and empowering 
 
 
 
-<p align="center"> <a href="https://www.buymeacoffee.com/saifalmajdalmassri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saifalmajdalmassri" /></a></p><br><br>
+<p align="center"> <a href="https://www.buymeacoffee.com/saifalmajdalmassri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saifalmajdalmassri" /></a></p><br><be>
+
 
 
