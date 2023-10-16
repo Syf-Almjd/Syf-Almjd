@@ -78,7 +78,7 @@ Let's join forces and shape technology into a more human-centric and empowering 
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
-<a href="https://dev.to/https://dev.to/saifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/saifalmajd" height="30" width="40" /></a>
+<a href="https://dev.to/saifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/saifalmajd" height="30" width="40" /></a>
 <a href="https://twitter.com/hsaifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsaifalmajd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saif-almajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif-almajd" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19370215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19370215" height="30" width="40" /></a>
