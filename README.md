@@ -1,14 +1,22 @@
+
 <h1 align="center">Hi 👋, I'm Saif Almajd</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syf-almjd&label=Profile%20views&color=0eb48b" alt="syf-almjd" /> </p>
+
 <h3 align="center">Passionate of Full Stack Mobile/Web Development</h3>
 <p align="center"> <a href="https://instagram.com/saif_almajd" target="blank"><img src="https://img.shields.io/twitter/follow/SaifAlmajd?logo=instagram&style=for-the-badge" alt="saif_almajd" /></a> <a href="https://github.com/Syf-Almjd" target="blank"><img src="https://img.shields.io/twitter/follow/Syf-Almjd?logo=github&style=for-the-badge" alt="saif_almajd" /></a> <a href="https://www.linkedin.com/in/saif-almajd/" target="blank"><img src="https://img.shields.io/twitter/follow/SaifAlmajd?logo=linkedin&style=for-the-badge" alt="saif_almajd" /></a> <a href="https://twitter.com/hsaifalmajd" target="blank"><img src="https://img.shields.io/twitter/follow/hsaifalmajd?logo=twitter&style=for-the-badge" alt="hsaifalmajd" /></a>
 <a href="https://pub.dev/publishers/saifalmajd.blogspot.com/packages" target="blank"><img src="https://img.shields.io/twitter/follow/saifalmajd?logo=dart&style=for-the-badge" alt="saifalmajd" /></a>
 </p>
 
 
+<p></p>
 
 <p align="center"><a href="https://saifalmajd.web.app"> <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="50"> </a> <a href="https://saifalmajd.web.app"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2000&color=4FC114&center=true&vCenter=true&repeat=false&width=300&lines=SaifAlmajd+Portfolio!" alt="Typing SVG" /></a> <a href="https://linktr.ee/saifalmajd"> <img src="https://raw.githubusercontent.com/sayedmoataz/sayedmoataz/088a48d03ee3ee837683a4e83aeef25f0c512753/about_me.gif" alt="SaifAlmajd" width="50"> </a>
-<p></p>
+ <div align="center">
+ 
+  [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+</div>
+
+
 <h1></h1>
 
 
