@@ -28,9 +28,6 @@
 &nbsp;
 ![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Syf-Almjd&theme=chartreuse_dark&utcOffset=8)
 
-![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syf-Almjd&theme=chartreuse_dark)&nbsp;&nbsp;
-&nbsp;
-![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syf-Almjd&theme=chartreuse_dark)
 </div>
 
 
@@ -118,6 +115,21 @@ My unwavering belief in the power of continuous learning drives me to stay at th
 
 With a background as a seasoned software engineer, I possess the versatility to navigate diverse platforms and excel in both written and verbal communication. My precision-oriented approach enables me to demystify intricate software challenges into easily digestible concepts.
 
+<div align="center">
+ <br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syf-almjd&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="syf-almjd"/></img><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syf-almjd&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="syf-almjd"/></img>  </p>
+
+
+<!-- 
+
+![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syf-Almjd&theme=chartreuse_dark)&nbsp;&nbsp;
+&nbsp;
+![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syf-Almjd&theme=chartreuse_dark)
+-->
+</div>
+
+
 ## 🤝 Collaboration
 
 I am actively seeking collaborative opportunities in the domains of Flutter, Dart, Cybersecurity, and Mobile Development. If you share my enthusiasm for creating groundbreaking solutions, please don't hesitate to reach out to me at [syfalmjd11@gmail.com](mailto:syfalmjd11@gmail.com).
@@ -139,7 +151,6 @@ Let's join forces and shape technology into a more human-centric and empowering 
 <a href="https://auth.geeksforgeeks.org/user/syfalm4h6f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="syfalm4h6f" height="30" width="40" /></a>
 <a href="/https://github.com/syf-almjd.atom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/syf-almjd.atom" height="30" width="40" /></a>
 </p>
-
 
 
 <h3 align="center">Support:</h3>
