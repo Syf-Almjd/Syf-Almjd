@@ -62,7 +62,7 @@
 
 - 🔭 I’m currently working on a [Dart Secure Security Framework](https://github.com/Syf-Almjd/dart_secure)
 
-- 🌱 I’m currently learning **SpringBoot, SQL, and MobileNet!**
+- 🌱 I’m currently learning **SpringBoot & Mobile AI!**
 
 - 👨‍💻 All of my projects are available at [SaifAlmajd.web.app/](https://saifalmajd.web.app/)
 
