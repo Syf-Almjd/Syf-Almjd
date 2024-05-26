@@ -62,15 +62,15 @@
 
 - 🔭 I’m currently working on a [Dart Secure Security Framework](https://github.com/Syf-Almjd/dart_secure)
 
-- 🌱 I’m currently learning **Flutter, SQL, Firebase, Dart**
+- 🌱 I’m currently learning **SpringBoot, SQL, and MobileNet!**
 
 - 👨‍💻 All of my projects are available at [SaifAlmajd.web.app/](https://saifalmajd.web.app/)
 
-- 💬 Ask me about **Flutter, Java, Data Structure & Algorithms**
+- 💬 Ask me about **Flutter, Dart, Java, Data Structure & Algorithms**
 
 - 📫 How to reach me **syfalmjd11@gmail.com**
 
-- ⚡ Fun fact **I am an AspireX Leadership Alumni :)**
+- ⚡ Fun fact **I am an AspireX Harvard Alumni :)**
 
 
 <p></p>
