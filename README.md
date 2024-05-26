@@ -89,6 +89,23 @@ I am actively seeking collaborative opportunities in the domains of Flutter, Dar
 
 Let's join forces and shape technology into a more human-centric and empowering force for our global community! 🌎
 
+
+## 📊 &nbsp;Stats
+<div align="center">
+ <br>
+
+![Github Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syf-Almjd&theme=chartreuse_dark)
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syf-Almjd&theme=chartreuse_dark)&nbsp;&nbsp;
+&nbsp;
+![Commit Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Syf-Almjd&theme=chartreuse_dark&utcOffset=8)
+
+![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syf-Almjd&theme=chartreuse_dark)&nbsp;&nbsp;
+&nbsp;
+![Top Languages By Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Syf-Almjd&theme=chartreuse_dark)
+</div>
+
+
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
 <a href="https://dev.to/saifalmajd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/saifalmajd" height="30" width="40" /></a>
