@@ -165,8 +165,11 @@ Let's join forces and shape technology into a more human-centric and empowering 
 
 </div>
 -->
+<p align="center">
 
-
+<p align="center">
+  <img src="https://github.com/Syf-Almjd/Syf-Almjd/blob/files/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 <p align="center"> <a href="https://www.buymeacoffee.com/saifalmajdalmassri"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/saifalmajdalmassri" /></a></p><br><be>
 
 
