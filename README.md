@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saif Almajd</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syf-almjd&label=Profile%20views&color=0eb48b" alt="syf-almjd" /> </p>
 
-<h3 align="center">Passionate of Full Stack Mobile/Web Development</h3>
+<h3 align="center">🚀 Full Stack Mobile & Web Engineer | Cybersecurity Enthusiast</h3>
 <p align="center"> <a href="https://instagram.com/saif_almajd" target="blank"><img src="https://img.shields.io/twitter/follow/SaifAlmajd?logo=instagram&style=for-the-badge" alt="saif_almajd" /></a> <a href="https://github.com/Syf-Almjd" target="blank"><img src="https://img.shields.io/twitter/follow/Syf-Almjd?logo=github&style=for-the-badge" alt="saif_almajd" /></a> <a href="https://www.linkedin.com/in/saif-almajd/" target="blank"><img src="https://img.shields.io/twitter/follow/SaifAlmajd?logo=linkedin&style=for-the-badge" alt="saif_almajd" /></a> <a href="https://twitter.com/hsaifalmajd" target="blank"><img src="https://img.shields.io/twitter/follow/hsaifalmajd?logo=twitter&style=for-the-badge" alt="hsaifalmajd" /></a>
 <a href="https://pub.dev/publishers/saifalmajd.blogspot.com/packages" target="blank"><img src="https://img.shields.io/twitter/follow/saifalmajd?logo=dart&style=for-the-badge" alt="saifalmajd" /></a>
 </p>
@@ -60,15 +60,17 @@
 
  
 
-- 🔭 I’m currently working on a [Dart Secure Security Framework](https://github.com/Syf-Almjd/dart_secure)
+- 🔭 **Working on:** [Dart Secure Security Framework](https://github.com/Syf-Almjd/dart_secure) making Dart apps safer :)
 
-- 🌱 I’m currently learning **SpringBoot & Mobile AI!**
+- 🌱 **Learning:** SpringBoot & Mobile-integrated AI.
 
-- 👨‍💻 All of my projects are available at [SaifAlmajd.web.app/](https://saifalmajd.web.app/)
+- 🎓 **Credentials:** AspireX Harvard Alumni & Computer Science (Cybersecurity) Professional.
 
-- 💬 Ask me about **Flutter, Dart, Java, Data Structure & Algorithms**
+- 💼 **Leadership:** Recently been a tech lead leading multiple developers.
 
-- 📫 How to reach me **syfalmjd11@gmail.com**
+- 💬 **Ask me about:** Dart, Java, JS, TS, and DS & Algorithms.
+
+- 📫 **Reach me:** [syfalmjd11@gmail.com](mailto:syfalmjd11@gmail.com)
 
 - ⚡ Fun fact **I am an AspireX Harvard Alumni :)**
 
@@ -96,7 +98,8 @@
 <p></p>
 <p></p>
 <p align="center"> I proudly embrace my roles as a Developer, Leader, and Believer in our shared journey toward a better humanity 🌎. </p>
-<p align="center"><a href="https://linktr.ee/saifalmajd"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=600&center=true&vCenter=true&width=700&height=200&lines=SaifAlmajd+Almassri+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Flutter+Mobile+Development+💙;Cyber+Security;Leadership+%26+Management+;Computer+Science+(Cyber-Security)" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://saifalmajd.web.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4FC114&center=true&vCenter=true&width=500&lines=Mobile+Engineer;Loveing+Cyber+Security;Harvard+AspireX+Alumni;Tech+Lead" alt="Typing SVG" /></a>
 </p>
 👨🏻‍💻 As a committed computer science professional and visionary leader, my mission is to harness the potential of technology to uplift humanity and leave a positive imprint on our world. In my capacity as the Manager of MJD Foundation, my focus is unwavering – I endeavor to craft ingenious tools that enhance and simplify the lives of everyone.
 
@@ -118,7 +121,7 @@ With a background as a seasoned software engineer, I possess the versatility to 
 <div align="center">
  <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=syf-almjd&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="syf-almjd"/></img><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syf-almjd&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="syf-almjd"/></img>  </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syf-almjd&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="syf-almjd"/></img>  </p>
 
 
 <!-- 
