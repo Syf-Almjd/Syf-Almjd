@@ -135,9 +135,9 @@ With a background as a seasoned software engineer, I possess the versatility to 
 
 ## 🤝 Collaboration
 
-I am actively seeking collaborative opportunities in the domains of Flutter, Dart, Cybersecurity, and Mobile Development. If you share my enthusiasm for creating groundbreaking solutions, please don't hesitate to reach out to me at [syfalmjd11@gmail.com](mailto:syfalmjd11@gmail.com).
+I am seeking a collaboration (preferably open-source) in the domains of Mobile/Web Security and Software development. If you share my enthusiasm for creating groundbreaking solutions, please don't hesitate to reach out to me at [syfalmjd11@gmail.com](mailto:syfalmjd11@gmail.com).
 
-Let's join forces and shape technology into a more human-centric and empowering force for our global community! 🌎
+Empowering force for our global community! 🌎
 
 
 
